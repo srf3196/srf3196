@@ -1,0 +1,13 @@
+
+public class IoDemo_4 {
+    public static voi
+public class IoDemo_4 {
+    public static voi
+public class IoDemo_4 {
+    public static void main(String[] args) throws IOException {
+        FileInputStream fis = new FileInputStream("E:\\java_doc\\src\\io_demo\\demo_pratice");
+        byte[] bytes = new byte[1024];in(String[] args) throws IOException {
+        FileInputStream fis = new FileInputStream("E:\\java_doc\\src\\io_demo\\demo_pratice");
+        byte[] bytes = new byte[1024];String[] args) throws IOException {
+        FileInputStream fis = new FileInputStream("E:\\java_doc\\src\\io_demo\\demo_pratice");
+        byte[] bytes = new byte[1024];
