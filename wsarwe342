@@ -1,0 +1,6 @@
+package java_practice;
+
+import java.io.*;
+
+public class FileDemo__ {
+    public static void main(String args[]) throws IOException {
