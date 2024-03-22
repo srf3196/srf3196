@@ -1,0 +1,14 @@
+if choice == '1':
+   print(num1, "+", num2, "=", num1 + num2)
+elif choice == '2':
+   print(num1, "-", num2, "=", num1 - num2)
+elif choice == '3':
+   print(num1, "×", num2, "=", num1 * num2)
+elif choice == '4':
+   print(num1, "÷", num2, "=", num1 / num2)
+else:
+
+作者：龙哥学Python
+链接：https://www.zhihu.com/question/275036621/answer/2307798193
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
