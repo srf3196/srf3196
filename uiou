@@ -1,0 +1,5 @@
+import com.gem.entity.CarParking;
+import com.gem.service.CarParkingService;
+
+public class CarParkingServiceimpl implements CarParkingService {
+ private ArrayList<CarParking> carpaking = new ArrayList<CarParking>();
