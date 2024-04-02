@@ -1,0 +1,5 @@
+            newMap.putAll(newData);
+            internalMap = newMap;
+        }
+    }
+}
