@@ -1,0 +1,6 @@
+        return internalMap.get(key);
+    }
+ 
+    public void putAll(Map<? extends K, ? extends V> newData) {
+        synchronized (this) {
+            Map<K, V> newMap = new HashMap<K, V>(internalMap);
