@@ -1,0 +1,6 @@
+public class BlackListServiceImpl {
+ 
+    private static CopyOnWriteMap<String, Boolean> blackListMap = new CopyOnWriteMap<String, Boolean>(
+            1000);
+ 
+    public static boolean isBlackList(String id) {
