@@ -1,0 +1,5 @@
+XCVXVX        return blackListMap.get(id) == null ? false : true;
+    }
+ 
+    public static void addBlackList(String id) {
+        blackListMap.put(id, Boolean.TRUE);
