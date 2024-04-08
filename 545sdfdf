@@ -1,0 +1,6 @@
+        temp = arr[j];
+        arr[j] = arr[pivot];
+        arr[pivot] = temp;
+        quicksort(arr, low, j - 1);
+        quicksort(arr, j + 1, high);
+    }
